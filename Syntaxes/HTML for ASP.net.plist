@@ -9,22 +9,6 @@
 		<string>aspx</string>
 		<string>ascx</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(?x)
-		(&lt;(?i:mm:dataset|mm:insert|mm:update|asp:DataGrid|asp:Repeater|asp:TemplateColumn|head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl)\b
-		|&lt;!--(?!.*--&gt;)
-		|&lt;%(?!.*%&gt;)
-		|\{\{?(if|foreach|capture|literal|foreach|php|section|strip)
-		|\{\s*($|\?&gt;\s*$|//|/\*(.*\*/\s*$|(?!.*?\*/)))
-		)</string>
-	<key>foldingStopMarker</key>
-	<string>(?x)
-		(&lt;/(?i:mm:dataset|mm:insert|mm:update|asp:DataGrid|asp:Repeater|asp:TemplateColumn|head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl)&gt;
-		|^\s*--&gt;
-		|^\s*%&gt;
-		|\{\{?/(if|foreach|capture|literal|foreach|php|section|strip)
-		|(^|\s)\}
-		)</string>
 	<key>keyEquivalent</key>
 	<string>^~A</string>
 	<key>name</key>

@@ -8,10 +8,6 @@
 	<array>
 		<string>vb</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(&lt;(?i:(head|table|div|style|script|ul|ol|form|dl))\b.*?&gt;|\{|^\s*&lt;?%?\s*'?\s*(?i:(sub|private\s+Sub|public\s+Sub|function|if|while|For))\s*.*$)</string>
-	<key>foldingStopMarker</key>
-	<string>(&lt;/(?i:(head|table|div|style|script|ul|ol|form|dl))&gt;?|\}|^\s*&lt;?%?\s*\s*'?\s*(?i:(end|Next))\s*.*$)</string>
 	<key>keyEquivalent</key>
 	<string>^~A</string>
 	<key>name</key>
