@@ -8,6 +8,7 @@
 	<array>
 		<string>aspx</string>
 		<string>ascx</string>
+		<string>master</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~A</string>
