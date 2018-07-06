@@ -80,13 +80,13 @@
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>entity.name.tag.xml.html</string>
+					<string>entity.name.tag.html</string>
 				</dict>
 			</dict>
 			<key>end</key>
 			<string>(\?&gt;)</string>
 			<key>name</key>
-			<string>meta.tag.preprocessor.xml.html</string>
+			<string>meta.tag.metadata.processing.xml.html</string>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -142,7 +142,7 @@
 			<key>end</key>
 			<string>&gt;</string>
 			<key>name</key>
-			<string>meta.tag.sgml.html</string>
+			<string>meta.tag.metadata.doctype.html</string>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -153,13 +153,11 @@
 						<key>1</key>
 						<dict>
 							<key>name</key>
-							<string>entity.name.tag.doctype.html</string>
+							<string>entity.name.tag.html</string>
 						</dict>
 					</dict>
 					<key>end</key>
 					<string>(?=&gt;)</string>
-					<key>name</key>
-					<string>meta.tag.sgml.doctype.html</string>
 					<key>patterns</key>
 					<array>
 						<dict>
