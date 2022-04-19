@@ -155,7 +155,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>(?i:\b(Mod|And|Not|Or|Xor|as)\b)</string>
+			<string>(?i:\b(Mod|And|AndAlso|Not|Or|OrElse|Xor|as)\b)</string>
 			<key>name</key>
 			<string>keyword.operator.asp</string>
 		</dict>
